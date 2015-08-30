@@ -2,9 +2,12 @@
 
 1.Sweave es un conjunto de funciones R, en el paquete *utils* que combina 
 código LATEX y R en un sólo documento.
+
 2.El código es evaluado en R.
+
 3.La salida resultante de la consola, figuras y tablas se insertan en el
 documento. Esto produce un archivo *.tex* sobre el cúal es posible correr LATEX.
+
 4.Sweave es un paquete LATEX:  *Sweave.sty*.
 
 Más información: http://www.stat.uni-muenchen.de/~leisch/Sweave/
