@@ -27,8 +27,12 @@ Se tomaran, 4 pruebas de Laboratorio, de acuerdo al avance del curso.
 ###Referencias
 
 1.El pequeño Libro de Inferencia Estadística. https://leanpub.com/LittleInferenceBook/read.
+
 2.Fuentes para aprender R UCLA http://www.ats.ucla.edu/stat/r/.
+
 3.Curso de Programación en R e Inferencia Estadística, https://www.coursera.org/jhu.
+
 4.Documentación de R, ordenada por Temas, http://www.rdocumentation.org/.
+
 5.El mundo de R, en este blog: http://www.r-bloggers.com/.
 
