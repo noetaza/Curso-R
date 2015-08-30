@@ -1,7 +1,6 @@
 Introducción a  R
 ========================================================
-author: Introducción a la Estadística y Probabilidades-CM 274
-date: 
+Curso: Introducción a la Estadística y Probabilidades-CM 274
 
 ¿Qué es R?
 ========================================================
