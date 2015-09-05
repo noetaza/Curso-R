@@ -1,0 +1,6 @@
+### Solución del Ejercicio 7
+
+1. Primero **is.na(x)** produce un vector lógico conteniendo TRUE Y FALSE dependiendo de que si los correspondientes valores de **x** es **NA** o **NaN**. Luego el **!** invierte los valores TRUE y FALSE. Finalmente, **sum**  coerce los valores lógicos a valores numéricos 0-1  y  los agrega. El resultado es el número de elementos  distintos **NA** y **NaN** en el vector **x**.
+2. La expresión ** x[-(1:length(x)]** excluye todos los valores de x y produce un resultado longitud cero. Cuando x y este son concadenados, el resultado es idéntico a **x**.
+3. La expresión  **x[length(x) + 1]** produces **NA**. Cuando esta es dividida por **length(x)** el resultado es **NA**.
+4. La expresión ** x > mean(x)** produce un vector de TRUE Y FALSE que indica si los elementos del vector **x** son mayores que su mediana (Filtering). Cuando **sum** es aplicada a estos valores, los valores se coercen a 0-1 y sumados. El resultado es un recuento del número de valores en **x** que exceden su media. (Sin embargo, si **x** contiene **NA**, valores el resultado será **NA**).
